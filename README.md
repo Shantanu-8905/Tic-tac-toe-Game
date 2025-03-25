@@ -12,7 +12,7 @@ This is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. 
 
 ## Screenshots
 
-![Tic Tac Toe](Winner SS.png)
+![Tic Tac Toe](Winner.png)
 
 ## How to Run the Game
 
