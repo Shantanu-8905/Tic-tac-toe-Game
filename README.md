@@ -12,7 +12,7 @@ This is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. 
 
 ## Screenshots
 
-![Tic Tac Toe](https://github.com/Shantanu-8905/Tic-tac-toe-Game/commits?author=Shantanu-8905)
+![Tic Tac Toe]("https://github.com/Shantanu-8905/Tic-tac-toe-Game/commits?author=Shantanu-8905")
 
 ## How to Run the Game
 
