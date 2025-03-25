@@ -18,4 +18,4 @@ This is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Shantanu-8905/Tic-tac-toe-Game/tree/main
+   git clone https://github.com/Shantanu-8905/Tic-tac-toe-Game.git
